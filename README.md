@@ -1,5 +1,7 @@
 # InfinityCalc
 
+![](https://raw.githubusercontent.com/tassoneroberto/infinitycalc/master/res/images/icon.png)
+
 ## Introduction
 A simple calculator with no limitation in digits size.
 
