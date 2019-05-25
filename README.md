@@ -22,8 +22,8 @@ This is one of my first projects. I realised it to learn the basics of Java.
 ## Installation
 Clone and change directory:
 ```
-git clone https://github.com/tassoneroberto/infinitycalc.git
-cd infinitycalc
+git clone https://github.com/tassoneroberto/infinity-calc.git
+cd infinity-calc
 
 ```
 (OPTION 1) Compile and run:
