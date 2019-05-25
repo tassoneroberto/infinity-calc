@@ -1,0 +1,17 @@
+.DS_Store
+infinitycalc/Standard.class
+infinitycalc/AlberoDiEspressioni.class
+infinitycalc/AlberoDiEspressioni$1.class
+infinitycalc/AlberoDiEspressioni$Nodo.class
+infinitycalc/AlberoDiEspressioni$NodoOperando.class
+infinitycalc/AlberoDiEspressioni$NodoOperatore.class
+infinitycalc/Cambio.class
+infinitycalc/Cambio$CambioPane.class
+infinitycalc/Expr.class
+infinitycalc/Funz.class
+infinitycalc/Funz$GRDPane.class
+infinitycalc/Gestore.class
+infinitycalc/Gui.class
+infinitycalc/Numero.class
+infinitycalc/Numero$1.class
+infinitycalc/Numero$Nodo.class
