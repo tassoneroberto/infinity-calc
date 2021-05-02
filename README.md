@@ -36,3 +36,8 @@ java infinitycalc/Gui
 jar cfe InfinityCalc.jar infinitycalc/Gui .
 java -jar InfinityCalc.jar
 ```
+
+## Authors
+
+Co-authored with:
+[Antonio Rachele](https://github.com/racheleantonio)
